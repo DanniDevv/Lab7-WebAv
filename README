@@ -1,0 +1,8 @@
+[ ] Crear una base de datos del tema de tu preferencia (música, películas, videojuegos, universidad, tienda, etc)
+[ ] Crear una vista en la cual se pueda ingresar datos y almacenar estos en tu base de datos
+[ ] Crear una vista en la cual muestre los datos almacenados 
+
+
+npm install mongoose --save
+npm init -y
+
